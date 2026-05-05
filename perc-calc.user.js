@@ -4,6 +4,8 @@
 // @version      4.2
 // @description  Obliczanie % zmiany ceny
 // @author       Xcited (https://www.pepper.pl/profile/Xcited)
+// @updateURL    https://cdn.jsdelivr.net/gh/wojciech-g/perc-calc-pepper@main/perc-calc.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/wojciech-g/perc-calc-pepper@main/perc-calc.user.js
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
